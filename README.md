@@ -1,14 +1,6 @@
 # MLOPS
-Repositorio con los notebooks de Machine Learning Engineering for Production (MLOps)  
+https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops
 
-1) Validacion de datos: https://github.com/veiro/MLOPS/blob/main/1-DataValidation.ipynb 
-   
-Examinar las características de sus datos es una parte importante de la creación de un sistema de aprendizaje automático de nivel de producción. Mejorar la calidad de los datos ayudará a impulsar el rendimiento de su modelo al detectar posibles problemas, como valores con formato incorrecto, distribución sesgada y sesgos injustos. En la tarea de esta semana, realizará pasos comunes de validación de datos para examinar el conjunto de datos sobre diabetes. Esto incluye:
+Son algunos notebooks de la especilizacion.
 
-* Generación y visualización de estadísticas.
-
-* Inferir y actualizar un esquema de conjunto de datos.
-
-* Detectar, visualizar y corregir anomalías.
-
-* Examinar porciones del conjunto de datos.
+Los de google no los subi por que no se pueden ejecutar por si solos, no vale la pena tenerlos aca.
